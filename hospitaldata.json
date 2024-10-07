@@ -1,0 +1,21 @@
+
+[
+    {
+        "id":1,
+          "name":"speciality hospital",
+          "patientCount":103,
+          "location":"kannur"
+    },
+    {
+        "id":2,
+          "name":"MIMS hospital",
+          "patientCount":204,
+          "location":"kannur"
+    },
+    {
+        "id":3,
+          "name":"Koyili hospital",
+          "patientCount":110,
+          "location":"kannur"
+    }
+]
